@@ -70,7 +70,7 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">GitHub Stats</h2>
 </p>
-  ![thejunaidiqbal github stats](https://github-readme-stats.vercel.app/api?username=thejunaidiqbal&show_icons=true&hide_border=true)
+![thejunaidiqbal's github stats](https://github-readme-stats.vercel.app/api?username=thejunaidiqbal&show_icons=true&hide_border=true)
 
 [website]: https://thejunaidiqbal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
