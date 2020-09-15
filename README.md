@@ -43,13 +43,8 @@
 <img align="left" alt="Machine Learning" width="26px" src="https://i.ibb.co/ZBGL8Sb/ml.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://i.ibb.co/tXpvrk0/tensor.png" />
 
-
-<br />
 <br />
 
----
-
----
 
 ### 📕 Latest Blog Posts
 
@@ -70,6 +65,11 @@
 
 <img align="left" alt="thejunaidiqbal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 </details>
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
+ <h2 align="center">GitHub Stats</h2>
+</p>
 
 [website]: https://thejunaidiqbal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
