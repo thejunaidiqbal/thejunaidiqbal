@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love to travelling; aka Treveler Guru ✈️
 
 ### Spotify Playing 🎧
-[<img src="https://i.ibb.co/0qMgfz1/ecfa37c5f4abaad2f6cf39f4316fb9c7.gif" alt="thejunaidiqbal on Twitch" width="150"/>](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<a href="https://ibb.co/v1P7JMf"><img src="https://i.ibb.co/0qMgfz1/ecfa37c5f4abaad2f6cf39f4316fb9c7.gif" alt="ecfa37c5f4abaad2f6cf39f4316fb9c7" border="0"></a>](https://www.twitch.tv/thejunaidiqbal)
 
 ### Connect with me:
 
