@@ -9,7 +9,7 @@
 - 🔭 I’m currently working Sr. BETA - MLSA at [Microsoft][msp]!
 - ✍️ Top Technical Writer [Quora][quora]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with others 
+- 👯 I’m looking to collaborate with others Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travelling; aka Treveler Guru ✈️
 
