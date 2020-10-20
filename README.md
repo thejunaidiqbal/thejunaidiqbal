@@ -60,7 +60,6 @@
 ➡️ [more blog posts...](https://thejunaidiqbal.com)
 
 
-[<img align="left" src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal />]
 ---
 
 <details>
@@ -79,3 +78,6 @@
 [linkedin]: https://linkedin.com/in/thejunaidiqbal
 [facebook]: https://facebook.com/thejunaidiqbal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
+
+
+[<img align="left" src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal />]
