@@ -67,6 +67,8 @@
 <img align="left" alt="thejunaidiqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thejunaidiqbal&show_icons=true&hide_border=true" />
 </details>
 
+<img src=https://komarev.com/ghpvc/?username=mursalfk alt=mursalfk/>
+
 
 [website]: https://thejunaidiqbal.com
 [msp]: https://studentambassadors.microsoft.com/en-US/profile/5195
