@@ -80,4 +80,4 @@
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
 
 
-[<img align="left" src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal />]
+<img align="left" src="https://komarev.com/ghpvc/?username=thejunaidiqbal" alt="thejunaidiqbal" />
