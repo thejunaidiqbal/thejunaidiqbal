@@ -79,5 +79,5 @@
 [facebook]: https://facebook.com/thejunaidiqbal
 [quora]: https://www.quora.com/profile/Muhammad-Junaid-Iqbal-6
 
-
+<br /><br />
 <img align="left" src="https://komarev.com/ghpvc/?username=thejunaidiqbal" alt="thejunaidiqbal" />
