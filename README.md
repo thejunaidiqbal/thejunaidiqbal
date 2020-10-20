@@ -59,7 +59,8 @@
 
 ➡️ [more blog posts...](https://thejunaidiqbal.com)
 
-<img src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal />
+
+[<img align="left" src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal />]
 ---
 
 <details>
