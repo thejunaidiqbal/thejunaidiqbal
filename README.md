@@ -59,6 +59,7 @@
 
 ➡️ [more blog posts...](https://thejunaidiqbal.com)
 
+<img src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal />
 ---
 
 <details>
@@ -67,7 +68,7 @@
 <img align="left" alt="thejunaidiqbal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thejunaidiqbal&show_icons=true&hide_border=true" />
 </details>
 
-<img src=https://komarev.com/ghpvc/?username=thejunaidiqbal alt=thejunaidiqbal/>
+
 
 
 [website]: https://thejunaidiqbal.com
