@@ -50,6 +50,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Azure Machine Learning (Series 1)](https://medium.com/@thejunaidiqbal/getting-started-with-azure-machine-learning-778e49774951)
 - [Breast Cancer Detection using Machine Learning Classifier](https://www.linkedin.com/pulse/breast-cancer-detection-using-machine-learning-classifier-iqbal/?trackingId=yUXRt0t80ReJdho25AVfsQ%3D%3D)
 - [Everything You Need to Know About Deep Learning](https://www.linkedin.com/pulse/everything-you-need-know-deep-learning-muhammad-junaid-iqbal/?trackingId=bairUIq22k%2FYNdr5533OVg%3D%3D)
 - [What Lessons will the World Learn from COVID-19](https://www.linkedin.com/pulse/what-lessons-world-learn-from-covid-19-muhammad-junaid-iqbal/?trackingId=CwrF5Qy90rjB85DuzNTY8w%3D%3D)
