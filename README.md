@@ -6,7 +6,7 @@
 
 ## I'm a .NET Developer, Entrepreneur, Trainer/Public Speaker, AZURE - Cloud Specialist and MLSA!
 
-- 🔭 I’m currently working Sr. BETA - MLSA at [Microsoft][msp]!
+- 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]!
 - 👨‍🏫 Microsoft Certified Trainer (MCT)
 - ✍️ Top Technical Writer [Quora][quora]!
 - 🌱 I’m currently learning everything 🤣
