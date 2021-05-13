@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/thejunaidiqbal_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=thejunaidiqbal_)
 
 
-## I'm a .NET & Web Developer, GOLD - MLSA @Microsoft, Entrepreneur, Trainer/Public Speaker, AZURE - Cloud Specialist!
+## I'm a .NET & Web Developer, GOLD - MLSA @Microsoft[msp], Entrepreneur, Trainer/Public Speaker, AZURE - Cloud Specialist!
 
 - 🔭 I’m currently working GOLD - MLSA at [Microsoft][msp]!
 - 👨‍🏫 Microsoft Certified Trainer (MCT)
